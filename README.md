@@ -1,4 +1,4 @@
-# ELEC5620 Group19 Project - U-Well (University Wellness)
+# U-Well (University Wellness)
 
 ## Overview
 
