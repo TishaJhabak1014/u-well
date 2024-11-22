@@ -116,7 +116,6 @@ To set up the PostgreSQL database and user, follow these steps:
 
 ## Gradle + SprintBoot
 
-
 To start the development server, navigate in the `elec5620-backend` directory, use the following command: `gradle bootRun`. This will launch the frontend application on a local development server, typically accessible at `http://localhost:8080`.
 
 ## LLM - Ollama
